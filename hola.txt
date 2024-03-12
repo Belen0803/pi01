@@ -1,3 +1,23 @@
+<<<<<<< HEAD
 2ddad
 
 Quiero añadir que hola
+=======
+<<<<<<< HEAD
+Hola soy julian wenas tardes
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+que tal
+=======
+hola caracola
+>>>>>>> 972ea0ed8e9ae98b8e481f3acc8a19df9f3a5aa9
+=======
+2ddad
+>>>>>>> 29cfe690c1c3470a87340ea3cb3c95a79a093069
+<<<<<<< HEAD
+>>>>>>> f22145a19e6c4e3e986037920a00c4099dcfc4da
+=======
+Esto que es??
+>>>>>>> 460842e4a4f1e19c35e7a418889331e0143d64ee
+>>>>>>> fef90b3b61dd0212b8d540bc0730c6ade9253ede
