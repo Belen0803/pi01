@@ -2,7 +2,5 @@
 2ddad
 
 Quiero añadir que hola
-=======
-<<<<<<< HEAD
-Hola soy julian wenas tardes
+
 
