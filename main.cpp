@@ -1,7 +1,7 @@
 #include <Arduino.h>
 // Estoy haciendo preubas
 
-// put function declarations here:
+// Modificando cositas jejeje
 int myFunction(int, int);
 
 void setup() {
