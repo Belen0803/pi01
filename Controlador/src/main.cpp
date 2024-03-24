@@ -1,6 +1,7 @@
 #include<Arduino.h>
 #include <OneWire.h>
 #include <DallasTemperature.h>
+#include <HardwareSerial.h>
 
 //Defines
 #define THRESHOLD 60
