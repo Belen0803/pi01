@@ -1,6 +1,8 @@
 #include<Arduino.h>
 
-#define THRESHOLD 50
+#define THRESHOLD 60
+
+const int ENCENDIDO = T9; // GPIO32
 
 int cont = 0;
 
@@ -22,9 +24,10 @@ void setup()
 
     // Use a threshold for the pin to wake up
     // the function is used as an interruption to use it to do the first things we use
-    touchAttachInterrupt(T9,touchSensorWakeUp,THRESHOLD);
+    touchAttachInterrupt(ENCENDIDO,touchSensorWakeUp,THRESHOLD);
 }
  
 void loop() {
   esp_light_sleep_start();
+  delay(1000);
 }
